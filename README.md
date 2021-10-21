@@ -1,8 +1,8 @@
 ### Olá! Eu sou Artur ou mais conhecido como Jotinha.
 
-- 🔭 Atualmente sem projetos
-- 🌱 Estou aprendendo HTML and C++
-- 😄 Pronomes ele/dele
+Atualmente trabalhando no whatsapp 2 ou no JotinhaBOT
+Domino Lua, JavaScript, Python
+Estou aprendendo HTML and TypeScript
 
 <div align="center">
   <a href="https://github.com/littlejotinha">
